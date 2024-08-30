@@ -6,7 +6,9 @@ Refer to the [documentation](https://lazyvim.github.io/installation) to get star
 To use this on Linux.
 
 git clone --depth 1 https://github.com/npquintos/LazyVimUser ~/.config/nvim
+
 rm -rf ~/.config/nvim/.git
+
 nvim
 
 To use in Windows.
